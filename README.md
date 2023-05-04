@@ -25,5 +25,6 @@ Workflow Steps:
 Collaborators:
 </br>
 ● [EDA and Data Cleaning](https://github.com/sureshk328)
+</br>
 ● [Model Training and Web Hosting](https://github.com/ashutalwar)
 
