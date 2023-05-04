@@ -18,3 +18,12 @@ Workflow Steps:
 
 
 ![Workflow](https://github.com/sureshk328/Movie_Review_Sentiment_Regression/blob/main/Workflow.jpg?raw=true)
+
+
+</br>
+</br>
+Collaborators:
+</br>
+● [EDA and Data Cleaning](https://github.com/sureshk328)
+● [Model Training and Web Hosting](https://github.com/ashutalwar)
+
